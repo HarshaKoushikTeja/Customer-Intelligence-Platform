@@ -98,7 +98,7 @@ customer-intelligence-platform/
 
 **1. Clone and set up environment**
 ```bash
-git clone https://github.com/<your-username>/customer-intelligence-platform.git
+git clone https://github.com/HarshaKoushikTeja/customer-intelligence-platform.git
 cd customer-intelligence-platform
 python -m venv venv
 source venv/bin/activate
