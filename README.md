@@ -164,12 +164,7 @@ curl -X POST http://localhost:8000/predict \
 
 ---
 
-## Team
-
-| Role | Contributor | Responsibilities |
-|---|---|---|
-| Tech Lead | Harsha Koushik Teja Aila | Pipeline, ML, API, Docker, AWS |
-| Dashboard & Analytics | [Friend's name] | Streamlit dashboard, EDA, documentation |
+xxxx Team xxxx
 
 ---
 
